@@ -31,6 +31,9 @@ const voiceCommands = {
     },
     'toe taps': () => {
         alert('toe taps');
+    },
+    'practice touches': () => {
+        alert('practice touches');
     }
 }
 
